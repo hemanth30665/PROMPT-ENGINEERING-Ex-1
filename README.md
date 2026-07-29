@@ -3,8 +3,8 @@
 
 ---
 
-# Ex. No: 
-# Date: 
+# Ex. No: 1 Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
+# Date: 29/07/2026
 
 # Aim
 To develop a comprehensive report on the Fundamentals of Generative AI and Large Language Models (LLMs), covering:
